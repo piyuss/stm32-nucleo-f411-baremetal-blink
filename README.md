@@ -14,7 +14,7 @@
    - `main.c` — application code
    - `Makefile` — build and flash
 
-   ## Build and flas
+   ## Build and flash
     make
     make flash
 
